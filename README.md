@@ -42,3 +42,6 @@ Create README.md file
 git commit -m "Add README.md file"
 git config --global --add --bool push.autoSetupRemote true
 ```
+Using vscode:
+Go to Source control in left sidebar.
+Save stage changes the files.
